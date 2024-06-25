@@ -12,7 +12,7 @@ topics:
   - transactions
 
 environment:
-  sdk: '>=2.15.0 <4.0.0'
+  sdk: '>=3.2.3 <4.0.0'
 
 dependencies:
   blockchain_utils: ^3.2.0
