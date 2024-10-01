@@ -219,7 +219,7 @@ class XRPLRpc {
       throw RPCError(
           errorCode: code,
           message: message.toString(),
-          data: data,
+          details: data,
           request: data["request"] ?? request.params);
     }
     // If no error is present, check for the existence of a "result" field
