@@ -15,7 +15,7 @@ environment:
   sdk: '>=3.2.3 <4.0.0'
 
 dependencies:
-  blockchain_utils: ^3.4.0
+  blockchain_utils: ^3.5.0
   # blockchain_utils:
   #   path: ../bitcoin/blockchain_utils
   

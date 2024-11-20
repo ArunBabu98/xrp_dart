@@ -27,7 +27,7 @@
     },
     {
       "name": "blockchain_utils",
-      "rootUri": "file:///C:/Users/1runx/AppData/Local/Pub/Cache/hosted/pub.dev/blockchain_utils-3.4.0",
+      "rootUri": "file:///C:/Users/1runx/AppData/Local/Pub/Cache/hosted/pub.dev/blockchain_utils-3.5.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -302,7 +302,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-10-01T11:24:28.888415Z",
+  "generated": "2024-11-20T09:27:00.172464Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///C:/Users/1runx/Documents/UTILITIES/flutter/flutter_windows_3.22.1-stable/flutter",
