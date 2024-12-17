@@ -25,8 +25,8 @@ class LedgerInfo {
   }
 
   int calculateFeeDynamically() {
-    double queuePct = currentQueueSize / maxQueueSize;
-    int feeLow =
+    final double queuePct = currentQueueSize / maxQueueSize;
+    final int feeLow =
         (drops.minimumFee * 1.5).round().clamp(drops.minimumFee * 10, 1000);
 
     int possibleFeeMedium;
